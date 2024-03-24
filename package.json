@@ -1,0 +1,22 @@
+{
+  "name": "playwright_web_framework",
+  "version": "1.0.0",
+  "description": "This is a template Playwright framework with JavaScript, to automate web application.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobeezy/playwright_web_framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobeezy/playwright_web_framework/issues"
+  },
+  "homepage": "https://github.com/bobeezy/playwright_web_framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  }
+}
